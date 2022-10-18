@@ -1,2 +1,2 @@
-# bim101
+# BIM101 Computer Programming I
  
