@@ -1,4 +1,4 @@
-package labs;
+package labs.lab01;
 
 /**
  * Please refer to the first task of the material Lab #1
