@@ -1,2 +1,4 @@
-# BIM101 Computer Programming I
+# bim101
+
+Repository of BIM101 - Computer Programming I
  
