@@ -1,7 +1,5 @@
 package lectures.lecture02;
 
-import java.util.Scanner;
-
 /**
  * Please refer to the course material slide #2
  */
