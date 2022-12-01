@@ -1,4 +1,4 @@
-package lectures.lacture01;
+package lectures.lecture01;
 
 /**
  * Please refer to the course material slide #1

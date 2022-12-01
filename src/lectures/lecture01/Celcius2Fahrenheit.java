@@ -1,6 +1,4 @@
-package lectures.lacture01;
-
-import java.util.Scanner;
+package lectures.lecture01;
 
 /**
  *  Please refer to the course material slide #1
