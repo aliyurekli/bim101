@@ -10,7 +10,7 @@ public class BinarySearch {
 
     public static int binarySearch(int[] array, int n) {
         int low = 0;
-        int high = array.length;
+        int high = array.length - 1;
 
         while (high >= low) {
             int mid = (high + low) / 2;
@@ -28,7 +28,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
 
-        int[] testArray = new int[] {55, 0, 1, 18, 2, 3, 5, -77, 13, 21, 34, -1};
+        int[] testArray = new int[] {55,21,22};
         int[] testValues = new int[] {17, 21, 55};
 
         Arrays.sort(testArray);
