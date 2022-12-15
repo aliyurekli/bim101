@@ -20,7 +20,7 @@ public class SelectionSort {
                 }
             }
 
-            if (currentMin != i) {
+            if (currentMinIndex != i) {
                 array[currentMinIndex] = array[i];
                 array[i] = currentMin;
             }
