@@ -2,6 +2,9 @@ package assignments.assignment02;
 
 import java.util.Random;
 
+/**
+ * Please refer to the material in Assignment #2
+ */
 public class FirstPresident {
 
     private static final int[] YEARS = new int[] {

@@ -2,6 +2,9 @@ package assignments.assignment01;
 
 import java.util.Scanner;
 
+/**
+ * Please refer to the material in Assignment #1
+ */
 public class Grading {
 
     public static double getScore() {

@@ -1,5 +1,8 @@
 package assignments.assignment03;
 
+/**
+ * Please refer to the material in Assignment #3
+ */
 public class OddCount {
 
     public static int loopBasedCount(int a, int b) {
